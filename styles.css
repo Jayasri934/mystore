@@ -1,0 +1,19 @@
+.row{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+.box{
+    width:300px;
+    border:1px solid grey;
+    border-radius:20px;
+    padding:20px;
+    margin:20px;
+}
+.row button{
+    background-color: green;
+    font-size:20px;
+    color:white;
+    width:100%;
+    padding:10px;
+}
